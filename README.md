@@ -1,2 +1,2 @@
 # SimpleAsyncTask
-Created a android applicationw which performs the asynchronous task
+Created a sample android application which performs the asynchronous task
